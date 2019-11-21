@@ -23,4 +23,5 @@ summary(ChickWeight)
 with(ChickWeight, plot(Time, weight, col = Diet))
 ```
 
+Next, we interpret the plot.
 
